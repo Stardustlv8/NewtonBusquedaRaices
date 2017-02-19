@@ -1,5 +1,5 @@
 Metodos numericos
-Metodo de Biseccion para el calculo de raices
+Metodo de Nexton para el calculo de raices
 
 Dependencias
 
